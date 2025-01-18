@@ -1,6 +1,6 @@
-﻿using WebAppSample.Models;
+﻿using MicroServiceProjectProduct.Models;
 
-namespace WebAppSample.Services
+namespace MicroServiceProjectProduct.Services
 {
 	public class ProductService
 	{

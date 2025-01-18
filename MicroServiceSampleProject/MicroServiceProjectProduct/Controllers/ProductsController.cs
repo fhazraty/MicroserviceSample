@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using WebAppSample.Models;
-using WebAppSample.Services;
+﻿using MicroServiceProjectProduct.Models;
+using MicroServiceProjectProduct.Services;
+using Microsoft.AspNetCore.Mvc;
 
-namespace WebAppSample.Controllers
+namespace MicroServiceProjectProduct.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]

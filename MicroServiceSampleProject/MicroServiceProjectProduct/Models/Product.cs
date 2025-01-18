@@ -1,4 +1,4 @@
-﻿namespace WebAppSample.Models
+﻿namespace MicroServiceProjectProduct.Models
 {
 	public class Product
 	{
